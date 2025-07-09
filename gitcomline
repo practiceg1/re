@@ -1,0 +1,7 @@
+git init
+gitadd
+gitcommit
+gitconfig user.name/email
+gitbranch
+gitcheckout
+gitpush
