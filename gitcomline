@@ -1,7 +1,9 @@
 git init
 gitadd.
-gitcommit-m
+gitcommit -m
 gitconfig user.name/email
 gitbranch
 gitcheckout
 gitpush
+new line 
+add a readme file
