@@ -1,6 +1,6 @@
 git init
-gitadd
-gitcommit
+gitadd.
+gitcommit-m
 gitconfig user.name/email
 gitbranch
 gitcheckout
